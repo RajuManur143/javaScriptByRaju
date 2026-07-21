@@ -1,0 +1,13 @@
+{
+  "name": "naukri-auto-apply",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "start": "node naukri-auto-apply.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.54.0"
+  }
+}
